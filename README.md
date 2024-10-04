@@ -14,7 +14,7 @@ For example:
 - **auth-lvl-1:** Implements basic authentication with username and password.
 - **public**: CSS files as a style sheet.
 - **views**: EJS files for the user interface.
-- **index.js**: Node.js server code, database models.
+- **index.js**: Node.js server code.
 - **package.json**:Dependencies..
 - **queries.sql**: SQL instructions to create the database.
 
