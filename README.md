@@ -5,7 +5,7 @@ Each directory represents a specific type of authentication and contains everyth
 ## Technologies Used:
 - Frontend: HTML, CSS, JavaScript
 - Backend: Node.js, Express, PostgreSQL
-- Others: body-parser, ejs, pg
+- Dependencies: body-parser, ejs, pg, bcrypt.
 
 ## Project Structure:
 Each directory represents a type of authentication. 
