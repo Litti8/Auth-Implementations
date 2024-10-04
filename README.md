@@ -12,8 +12,9 @@ Each directory represents a type of authentication.
 For example:
 
 - **auth-lvl-1:** Implements basic authentication with username and password.
-- **public**: HTML, CSS, and JavaScript files for the user interface.
-- **src**: Node.js server code, database models, and routes.
+- **public**: CSS files as a style sheet.
+- **views**: EJS files for the user interface.
+- **index.js**: Node.js server code, database models.
 - **package.json**:Dependencies..
 - **queries.sql**: SQL instructions to create the database.
 
