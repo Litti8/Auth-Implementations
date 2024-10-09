@@ -14,7 +14,8 @@ env.config();
 
 app.use(
   session({
-    secret: "TOPSECRETWORD",
+    //  crear variable de entorno, archivo .env
+    secret: process.env.SESSION_SECRET,
     resave: false,
     saveUninitialized: true,
   })
